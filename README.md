@@ -1,4 +1,4 @@
--- ENTREGA DESÁFIO DE PROJETO DIO --
+-- ENTREGA DESAFIO DE PROJETO DIO --
 
 Desafio proposto:
 
