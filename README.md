@@ -16,4 +16,5 @@ Métodos: exibirPagina(String url), adicionarNovaAba(), atualizarPagina()
 
 -- DIAGRMA DESENVOLVIDO --
 
-![diagrma-classes-iphone](image.png)
+![image](https://github.com/Carlos1681/desafio-dio-iphone-uml/assets/100488187/f3361905-fd3d-429e-88a9-86dbc8579621)
+
